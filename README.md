@@ -3,7 +3,9 @@ Repositório com o que foi desenvolvido no Open Data Day 2020 na cidade de Santo
 
 Apoiadores: 
 
-![](https://github.com/Py013/Open-Data-Day-2020/blob/master/alura.png)
+![](https://github.com/Py013/Open-Data-Day-2020/blob/master/alura.png) 
+
+![](https://github.com/Py013/Open-Data-Day-2020/blob/master/cdc.png)
 
 Organização:
 
