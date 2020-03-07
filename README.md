@@ -14,3 +14,5 @@ Repositório com o que foi desenvolvido no Open Data Day 2020 na cidade de Santo
 Organização:
 
 ![](https://github.com/Py013/Open-Data-Day-2020/blob/master/py013_git.png)
+
+Cupom de descontos para a Alura: https://www.alura.com.br/promocao/opendatadaysantos
